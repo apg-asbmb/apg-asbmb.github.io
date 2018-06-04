@@ -1,0 +1,32 @@
+---
+layout: default
+title: Events
+permalink: /events/
+---
+
+
+<div class="container">
+  <h1>All APG Events</h1>
+
+    {% for post in site.categories.events %}
+        <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>  
+    {% endfor %}
+
+            <h1></h1>
+
+            <h1>Other APG news</h1>
+   {% for post in site.categories.other %}
+        <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+         </li>
+    {% endfor %}
+</div>
