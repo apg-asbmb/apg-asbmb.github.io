@@ -43,7 +43,7 @@
 
 .site-nav {
   position: absolute;
-  margin-left: 270px;
+  margin-left: 350px;
   margin-top: 10px;
   background-color: #22b8f0;
   
@@ -204,7 +204,7 @@
  */
 .page-content {
   padding: $spacing-unit 0;
-  flex: 1;
+  flex: 1 0 auto;
 }
 
 .page-heading {

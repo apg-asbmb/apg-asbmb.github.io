@@ -6,8 +6,8 @@ permalink: /Supporters/
 
 ## Supporters of the Adelaide Protein Group
 
-Throughout the year the APG hosts a number of free and subsidised events with numerous prizes on offer for our talented research community. This is only possible with the support of our awesome sponsors!
-You can help as well; when you join the [Australian Society for Biochemistry and Molecular Biology (ASBMB)](https://github.com/), simply selecting '_Adelaide Protein Group_' under related societies will help with funding.
+Throughout the year the APG hosts a number of free and subsidised events with numerous prizes on offer for our talented research community; 
+this is only possible with the support of our awesome sponsors!
 
 __Platinum Supporters!__
 
@@ -25,4 +25,4 @@ __Silver Supporters!__
 [![](/assets/logos/ccb.png)](http://www.centreforcancerbiology.org.au/)
 [![](/assets/logos/sahmri.jpeg)](https://www.sahmri.org/)
 
-We also thank [GitHub](https://github.com/) for powering our website.
+We also thank the [ASBMB](https://www.asbmb.org.au/) for their support and [GitHub](https://github.com/) for powering our website.

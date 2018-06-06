@@ -19,8 +19,8 @@ layout: default
       </time>
     </header>
         <div>{{ post.content }}</div>
-    <h2>Older Posts</h2>
-        {% for post in site.posts offset:1 limit:3 %}
+    <h2>Recent Posts</h2>
+        {% for post in site.posts offset:1 limit:2 %}
         <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -30,7 +30,7 @@ layout: default
          </li>
     {% endfor %}
     <h1></h1>
-    <a class="post-link" href="/events">All posts...</a>
+    <a class="post-link" href="/events">All posts ...</a>
   {%- endif -%}
 
 </div>

@@ -1,11 +1,17 @@
 ---
 layout: info
-title: Stay in Touch
+title: Join
 permalink: /join/
 ---
 
-# How to keep up-to-date with APG events
+# Joining the ASBMB
 
+We encourage all Adelaide protein scientists to join the [ASBMB](https://www.asbmb.org.au) and remember to tick the box next to 
+Adelaide Protein Group in the Special Interest Groups section as this forms the basis of their support for our events.
+
+# Staying up-to-date with APG events
+
+you can
 
  - [Subscribe via RSS](/feed.xml) to receive information about APG events as they are posted here
  - Follow us on [Twitter](https://twitter.com/adlproteingrp)
@@ -13,7 +19,10 @@ permalink: /join/
  
  or
 
-# Join our mailing list!
+# Join our mailing list
+
+The mailing list is our best means of communicating APG events to you. There are 2-3 events per year, and you will typically receive several emails in the lead-up to an event.
+We will also send you items that we believe may be of interest to you (no more than approx. 2-4 per year). These include talks from visiting researchers or unique offers from our larger sponsors.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -50,8 +59,4 @@ permalink: /join/
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
-
-The mailing list is our best means of communicating APG events to you. There are 2-3 events per year, and you will typically receive several emails in the lead-up to an event.
-We will also send you items that we believe may be of interest to you (no more than approx. 2-4 per year). These include talks from visiting researchers or unique offers from our larger sponsors.
 
