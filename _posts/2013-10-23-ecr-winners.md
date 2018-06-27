@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "??? Early Career Researcher Awards 2013 Winner"
+title: "Early Career Researcher Awards 2013 Winner"
 categories: winners
 ---
 
@@ -10,7 +10,7 @@ for 2014!
 
 ### Best Talk
 
- - .
+ - Lachlan Jolly, Uni Adel
  
  ---
 

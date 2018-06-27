@@ -10,7 +10,7 @@ for 2016!
 
 ### Best Talk
 
- - Victoria Pederick, Uni Adel
+ - Daniel Pederick, Uni Adel
 
 ### Best Posters
 

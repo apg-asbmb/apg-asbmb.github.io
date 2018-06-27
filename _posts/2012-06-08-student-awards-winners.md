@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "??? Student Awards 2012 Winners"
+title: "Student Awards 2012 Winners"
 categories: winners
 ---
 
@@ -14,7 +14,7 @@ for 2012!
 
 ### Best Poster
 
- - Victoria Lewis, ???
+ - Victoria Lewis, Uni Adel
 
 ---
 
