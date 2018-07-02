@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Early Career Researcher Awards 2016 Winners"
+title: "Early Career Researcher Awards 2016 Winner"
 categories: winners
 ---
 

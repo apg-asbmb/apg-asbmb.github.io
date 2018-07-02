@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Awards 2010 Winners"
+title: "Student Awards 2010 Winner"
 categories: winners
 ---
 
