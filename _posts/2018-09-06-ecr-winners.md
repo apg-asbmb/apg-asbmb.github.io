@@ -9,11 +9,11 @@ We congratulate our ECR Award winners for 2018!
 
 ### Best talk
 
-- blagh
+- Julie-Ann Hulin, Flinders University
 
 ### People's choice
 
-- blagh
+- Jayakumar Bose, University of Adelaide
 
 ---
 
