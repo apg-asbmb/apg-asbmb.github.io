@@ -15,7 +15,7 @@ and we congratulate the Student Awards 2018 winners!
 
 ### Best Posters
 
- - Stephanie Nguyen, Uni Adel
+ - Erin Brazel, Uni Adel
  - Rebecca Frkic, Uni Adel
 
 ---
