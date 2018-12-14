@@ -19,7 +19,7 @@ The specific aims of the group are to:
 - Raise awareness of the ASBMB
 - Create a forum for students and post-doctoral researchers to present their work in an informal atmosphere
 - Facilitate the dissemination and learning of the technical and practical aspects of protein science, and related areas
-- bring scientists from interstate or overseas to present research findings in the field of protein science
+- Bring scientists from interstate or overseas to present research findings in the field of protein science
 
 Our regular annual events include the post-graduate _'Student Awards Event'_, the _'Early Career Researcher Awards'_, and our casual end of year _'Proteins in the Pub'_ networking event.
 
