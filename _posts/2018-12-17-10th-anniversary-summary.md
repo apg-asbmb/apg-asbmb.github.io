@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 years of the Adelaide Protein Group"
-categories: events
+categories: other
 ---
 
 The APG committee would like to thank everyone for helping to celebrate 10 years of the APG!
