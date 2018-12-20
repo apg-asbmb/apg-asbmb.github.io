@@ -33,7 +33,7 @@ You can also keep up to date with APG events by:
 <div id="mc_embed_signup">
 <form action="https://asn.us18.list-manage.com/subscribe/post?u=1d8342564a38c3b2f7bf66d4f&amp;id=9c8679ced8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>APG mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
