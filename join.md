@@ -9,24 +9,19 @@ permalink: /join/
 We encourage all Adelaide protein scientists to join the [ASBMB](https://www.asbmb.org.au) and remember to tick the box next to 
 Adelaide Protein Group in the Special Interest Groups section as this forms the basis of their support for our events.
 
-# Staying up-to-date with APG events
+# Joining the APG
 
-you can
-
- - [Subscribe via RSS](/feed.xml) to receive information about APG events as they are posted here
- - Follow us on [Twitter](https://twitter.com/adlproteingrp)
- - Like our [Facebook](https://www.facebook.com/Adelaide-Protein-Group-APG-189628934500705/) page
- 
- or
-
-# Join our mailing list
-
-The mailing lists are our best means of communicating APG events to you. 
-The 'Events' list will keep you informed about APG events throughout the year. There are approx. 2-3 events per year, and you will 
-typically receive several emails in the lead-up to an event.
-The 'Items of interest' list is for items (such as talks from visiting researchers etc.) that we believe may be of interest to you 
+APG membership is free, simply join our mailing list below!
+ - The 'Events' list will keep you informed about APG events throughout the year (approx. 2-3 emails per event, 3 events per year).
+ - The 'Items of interest' list is for items (such as talks from visiting researchers etc.) that we believe may be of interest to you 
 (no more than approx. 2-4 per year).
 
+You can also keep up to date with APG events by:
+
+ - [Subscribing via RSS](/feed.xml) to receive information about APG events as they are posted here
+ - Following us on [Twitter](https://twitter.com/AdelaideProtein)
+ - Liking our [Facebook page](https://www.facebook.com/Adelaide-Protein-Group-APG-189628934500705/)
+ 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
