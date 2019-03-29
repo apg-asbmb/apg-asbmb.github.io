@@ -24,15 +24,28 @@ The specific aims of the group are to:
 Our regular annual events include the post-graduate _'Student Awards Event'_, the _'Early Career Researcher Awards'_, and our casual end of year _'Proteins in the Pub'_ networking event.
 
 
-## Committee Members
+## Executive Committee
 
-__Chairperson:__ Melissa Pitman
+ - __Chairperson:__ Melissa Pitman
+ - __Treasurer:__ Kate Wegener
+ - __Secretary:__ Winnie Kan
+ - __ASBMB liaison:__
+ - __Webmaster:__ Michael Roach
+ - __Sponsorship:__ 
+ - __Speaker liaison:__ 
+ - __Promotions:__ 
+ - __Social Media:__ 
+ - __Event Coordinator:__ 
 
-__Treasurer:__ Kate Wegener
+## University Reps:
 
-__Secretary:__ Winnie Kan
+ - __Adelaide University:__
+ - __University of South Australia:__
+ - __Flinders University:__
 
-__Committee Members:__ Melissa Bennett, Erin Brazel, Melissa Brown, John Bruning, Caitlin Byrt, Mark Corbett, Briony Forbes, Luke Grundy, Duyen Pham, Khalia Primer, Michael Roach, Cher-Lynn Soh
+## Other Committee members
+
+Melissa Bennett, Melissa Brown, John Bruning, Mark Corbett, Briony Forbes, Luke Grundy, Duyen Pham, Khalia Primer, Emma Parkinson-Lawrence, Stephen Polyak, Michael Roach, Cher-Lynn Soh
 
 
 [1]:/assets/docs/APGConstitution-20080417.doc
