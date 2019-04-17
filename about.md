@@ -31,11 +31,9 @@ Our regular annual events include the post-graduate _'Student Awards Event'_, th
  - __Secretary:__ Erin Brazel
  - __Webmaster:__ Michael Roach
  - __ASBMB liaison:__ Melissa Bennett
- - __Sponsorship:__ 
  - __Speaker liaison:__ Cher-Lynn Soh
  - __Promotions:__ Michael Roach
  - __Social Media:__ Kimberley McLean
- - __Event Coordinator:__ 
 
 ### Campus Reps:
 
