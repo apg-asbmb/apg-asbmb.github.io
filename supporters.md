@@ -25,4 +25,4 @@ __Silver Supporters!__
 [![](/assets/logos/ccb.png)](http://www.centreforcancerbiology.org.au/)
 [![](/assets/logos/sahmri.jpeg)](https://www.sahmri.org/)
 
-We also thank the [ASBMB](https://www.asbmb.org.au/) for their support and [GitHub](https://github.com/) and [CloudFlare](https://www.cloudflare.com/) for powering our website.
+We also thank the [ASBMB](https://www.asbmb.org.au/) for their support and [GitHub](https://github.com/) and [Cloudflare](https://www.cloudflare.com/) for powering our website.
