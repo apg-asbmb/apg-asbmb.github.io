@@ -26,10 +26,11 @@ Our regular annual events include the post-graduate _'Student Awards Event'_, th
 
 ### Executive Committee
 
- - __Chairperson:__ Melissa Pitman
+ - __Chairperson:__ Erin Brazel
  - __Treasurer:__ Kate Wegener
- - __Secretary:__ Erin Brazel
+ - __Secretary:__ Winnie Kan
  - __Webmaster:__ Michael Roach
+ - __Sponsorship officer:__ Melissa Pitman
  - __ASBMB liaison:__ Melissa Bennett
  - __Speaker liaison:__ Cher-Lynn Soh
  - __Promotions:__ Michael Roach
