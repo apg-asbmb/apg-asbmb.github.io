@@ -12,6 +12,8 @@ this is only possible with the support of our awesome sponsors!
 __Gold Supporters!__
 
 [![](/assets/logos/thermofisher.png)](http://www.thermofisher.com.au/)
+[![](/assets/logos/biostrategy.png)](https://www.bio-strategy.com.au/)
+
 
 __Silver Supporters!__
 
