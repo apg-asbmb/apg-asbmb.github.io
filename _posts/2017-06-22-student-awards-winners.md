@@ -10,12 +10,12 @@ for 2017!
 
 ### Best Talk
 
- - Zarina Greenberg, Uni SA
+ - Zarina Greenberg, University of South Australia
 
 ### Best Posters
 
- - Andrew Thompson, Uni Adel
- - Louise Robertson, Uni Adel
+ - Andrew Thompson, University of Adelaide
+ - Louise Robertson, University of Adelaide
  
  ---
 

@@ -10,11 +10,11 @@ for 2015!
 
 ### Best Talk
 
- - Heidi Neubauer, Uni SA
+ - Heidi Neubauer, University of South Australia
 
 ### Best Poster
 
- - Jacqueline Morey, Uni Adel
+ - Jacqueline Morey, University of Adelaide
 
 ---
 

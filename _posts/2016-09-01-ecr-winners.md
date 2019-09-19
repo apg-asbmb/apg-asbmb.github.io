@@ -10,7 +10,7 @@ for 2016!
 
 ### Best Talk
 
-- Bart Eijkelkamp, Uni Adel
+- Bart Eijkelkamp, University of Adelaide
 
 ---
 

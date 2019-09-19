@@ -10,7 +10,7 @@ for 2010!
 
 ### Best Talk
 
- - Julian Pietsch, Uni Adel
+ - Julian Pietsch, University of Adelaide
 
 ---
 

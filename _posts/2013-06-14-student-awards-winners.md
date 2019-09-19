@@ -10,11 +10,11 @@ for 2013!
 
 ### Best Talk
 
- - Eiman Saleh, Uni SA
+ - Eiman Saleh, University of South Australia
 
 ### Best Poster
 
- - Matthew Doyle, Uni Adel
+ - Matthew Doyle, University of Adelaide
 
 
 ---

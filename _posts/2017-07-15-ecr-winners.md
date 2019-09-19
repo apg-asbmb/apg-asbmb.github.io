@@ -10,11 +10,11 @@ for 2017!
 
 ### Best talk
 
- - Sophie Wieszniak, Uni SA
+ - Sophie Wieszniak, University of South Australia
 
 ### Runner-up
 
- - Lauren Thurgood, Flinders Uni
+ - Lauren Thurgood, Flinders University
  
  ---
 

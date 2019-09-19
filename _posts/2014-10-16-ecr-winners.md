@@ -10,7 +10,7 @@ for 2014!
 
 ### Best Talk
 
- - Heshan Peiris, Flinders Uni
+ - Heshan Peiris, Flinders University
  
  ---
 

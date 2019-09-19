@@ -10,7 +10,7 @@ for 2014!
 
 ### Best Talk
 
- - Lachlan Jolly, Uni Adel
+ - Lachlan Jolly, University of Adelaide
  
  ---
 

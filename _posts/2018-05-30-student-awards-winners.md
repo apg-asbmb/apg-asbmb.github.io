@@ -11,12 +11,12 @@ and we congratulate the Student Awards 2018 winners!
 
 ### Best Talk
 
- - Alexander Lewis, Uni SA
+ - Alexander Lewis, University of South Australia
 
 ### Best Posters
 
- - Erin Brazel, Uni Adel
- - Rebecca Frkic, Uni Adel
+ - Erin Brazel, University of Adelaide
+ - Rebecca Frkic, University of Adelaide
 
 ---
 

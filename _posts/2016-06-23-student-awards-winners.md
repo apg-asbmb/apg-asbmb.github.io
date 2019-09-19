@@ -10,12 +10,12 @@ for 2016!
 
 ### Best Talk
 
- - Daniel Pederick, Uni Adel
+ - Daniel Pederick, University of Adelaide
 
 ### Best Posters
 
- - Shee-Chee Ong, Flinders Uni
- - Andrew Marshall, Uni Adel
+ - Shee-Chee Ong, Flinders University
+ - Andrew Marshall, University of Adelaide
 
 ---
 

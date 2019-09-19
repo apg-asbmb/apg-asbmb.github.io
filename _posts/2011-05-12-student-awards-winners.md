@@ -10,12 +10,12 @@ for 2011!
 
 ### Best Talk
 
- - Tatiana Soares da Costa, Uni Adel
+ - Tatiana Soares da Costa, University of Adelaide
 
 
 ### Best Poster
 
- - Andrew Hao, Uni Adel
+ - Andrew Hao, University of Adelaide
  
  ---
 

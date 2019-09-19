@@ -10,11 +10,11 @@ for 2012!
 
 ### Best Talk
 
- - Sylvia Baltzer, Flinders Uni
+ - Sylvia Baltzer, Flinders University
 
 ### Best Poster
 
- - Victoria Lewis, Uni Adel
+ - Victoria Lewis, University of Adelaide
 
 ---
 

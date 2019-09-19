@@ -10,12 +10,12 @@ for 2014!
 
 ### Best Talk
 
- - Matthew Doyle, Uni Adel
+ - Matthew Doyle, University of Adelaide
 
 ### Best Poster
 
- - Heidi Neubauer, Uni SA
- - Shee-Chee Ong, Flinders Uni
+ - Heidi Neubauer, University of South Australia
+ - Shee-Chee Ong, Flinders University
 
 ---
 
