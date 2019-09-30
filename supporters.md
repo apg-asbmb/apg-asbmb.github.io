@@ -1,7 +1,7 @@
 ---
 layout: info
 title: Supporters
-permalink: /Supporters/
+permalink: /supporters/
 ---
 
 ## Supporters of the Adelaide Protein Group
