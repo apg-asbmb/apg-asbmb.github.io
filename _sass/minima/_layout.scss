@@ -42,6 +42,8 @@
 }
 
 .site-nav {
+  float: none;
+  display: block;
   padding: 10px 0px;
   text-align: center;
   background-color: #22b8f0;
@@ -133,10 +135,11 @@
 .footer-heading {
   @include relative-font-size(1.125);
   line-height: $base-line-height * $base-font-size * 1;
+  float: none;
+  display: block;
   padding: 5px 0px;
   text-align: center;
   color: white;
-
 }
 
 .botbar {
