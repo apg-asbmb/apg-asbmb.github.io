@@ -27,28 +27,37 @@ Our regular annual events include the post-graduate _'Student Awards Event'_, th
 ### Executive Committee
 
  - __Chairperson:__ Erin Brazel
- - __Treasurer:__ Kate Wegener
- - __Secretary:__ Winnie Kan
+ - __Treasurer:__ Kimberley McLean
+ - __Secretary:__ Lauren Thurgood
+ - __ASBMB liaison:__ Blagojce Jovcevski
  - __Webmaster:__ Michael Roach
  - __Sponsorship officer:__ Melissa Pitman
- - __ASBMB liaison:__ Melissa Bennett
  - __Speaker liaison:__ Cher-Lynn Soh
- - __Promotions:__ Michael Roach
- - __Social Media:__ Kimberley McLean
+ - __Promotions:__ Juan Miguel Balbin 
+ - __Social Media:__ Felise Adams
 
-### Campus Reps:
+### Ordinary Committee members
+
+ - Andrew Blyth
+ - Bethiney Walters
+ - Briony Forbes
+ - Daniel McDougal
+ - Duyen Pham
+ - Ellen Potoczky
+ - Emma Parkinson-Laurence
+ - John Bruning
+ - Kate Wegener
+ - Melissa Brown
+ - Steven Polyak
+
+### Campus contacts
 
  - __UniSA (East):__ Steven Polyak
  - __UniSA (West):__ Emma Parkinson-Laurence
- - __UniSA (CCB):__ Winnie Kan
- - __SAHMRI (Student rep):__ Khalia Primer
- - __SAHMRI:__ Luke Grundy
  - __Flinders Uni (Biology):__ Melissa Brown
  - __Flinders Uni (Med Centre):__ Briony Forbes
  - __Adelaide Uni:__ John Bruning
  - __Adelaide Uni (Med School):__ Duyen Pham
  - __Waite Campus:__ Michael Roach
-
-
 
 [1]:/assets/docs/APGConstitution-20080417.doc
