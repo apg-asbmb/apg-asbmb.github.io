@@ -28,7 +28,7 @@ Our regular annual events include the post-graduate _'Student Awards Event'_, th
 
  - __Chairperson:__ Erin Brazel
  - __Treasurer:__ Kimberley McLean
- - __Secretary:__ Lauren Thurgood
+ - __Secretary:__ Bethiney Vandborg
  - __ASBMB liaison:__ Blagojce Jovcevski
  - __Webmaster:__ Michael Roach
  - __Sponsorship officer:__ Cher-Lynn Soh
@@ -38,12 +38,12 @@ Our regular annual events include the post-graduate _'Student Awards Event'_, th
 
 ### Ordinary Committee members
 
+ - Lauren Thurgood
  - Andrew Blyth
  - Melissa Brown
  - Daniel McDougal
  - Emma Parkinson-Laurence
  - Melissa Pitman
- - Bethiney Walters
  - Kate Wegener
 
 [1]:/assets/docs/APGConstitution-20080417.doc
