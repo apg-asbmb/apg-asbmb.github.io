@@ -7,21 +7,34 @@ permalink: /supporters/
 ## Supporters of the Adelaide Protein Group
 
 Throughout the year the APG hosts a number of free and subsidised events with numerous prizes on offer for our talented research community; 
-this is only possible with the support of our awesome sponsors!
+this is only possible with the support of our parent society--the ASBMB--and our awesome sponsors!
 
-__Gold Supporters!__
+## _Parent society_
 
-[![](/assets/logos/thermofisher.png)](http://www.thermofisher.com.au/)
-[![](/assets/logos/biostrategy.png)](https://www.bio-strategy.com.au/)
+[![](/assets/logos/asbmb.jpg)](https://www.asbmb.org.au/)
 
+<br>
 
-__Silver Supporters!__
+## _Platinum Supporters!_
+
+[![](/assets/logos/abcam.png)](https://www.abcam.com/)
+
+[![](/assets/logos/cytiva.png)](https://www.cytivalifesciences.com/en/au)
+
+<br>
+
+## _Gold Supporters!_
+
+[![](/assets/logos/uofa.png)](https://www.adelaide.edu.au/)
+
+<br>
+
+## _Silver Supporters!_
 
 [![](/assets/logos/bmg.png)](https://www.bmglabtech.com/)
-[![](/assets/logos/sahmri.jpeg)](https://www.sahmri.org/)
+[![](/assets/logos/ata.png)](https://www.atascientific.com.au/)
 
-[![](/assets/logos/eppendorf.png)](https://www.eppendorf.com/AU-en/)
+[![](/assets/logos/ccb.png)](https://www.centreforcancerbiology.org.au/)
+[![](/assets/logos/Flinders.png)](https://www.flinders.edu.au/)
 
 
-
-We also thank the [ASBMB](https://www.asbmb.org.au/) for their support and [GitHub](https://github.com/) and [Cloudflare](https://www.cloudflare.com/) for powering our website.
