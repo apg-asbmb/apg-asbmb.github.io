@@ -4,7 +4,7 @@ title: "AwardsFest 2021"
 categories: events
 ---
 
-Download the Abstract submission template and email your submissions to [apg.asbmb@gmail.com](mailto:apg.asbmb@gmail.com)
+Download the Abstract submission template and email your submissions to [apg.abstracts@gmail.com](mailto:apg.abstracts@gmail.com)
 
  - [Student (PhD/Masters) submission template][1]
  - [ECR submission template][2]
