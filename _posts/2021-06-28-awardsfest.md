@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "AwardsFest 2021"
-categories: events
+title: "AwardsFest 2021: Call for Abstracts"
+categories: other
 ---
 
 Download the Abstract submission template and email your submissions to [apg.abstracts@gmail.com](mailto:apg.abstracts@gmail.com)
