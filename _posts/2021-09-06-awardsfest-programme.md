@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AwardsFest 2021: Programme"
-categories: events
+categories: other
 ---
 
 Join us for the APG AwardsFest 2021!
