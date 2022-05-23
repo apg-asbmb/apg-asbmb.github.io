@@ -21,29 +21,26 @@ The specific aims of the group are to:
 - Facilitate the dissemination and learning of the technical and practical aspects of protein science, and related areas
 - Bring scientists from interstate or overseas to present research findings in the field of protein science
 
-Our regular annual events include the post-graduate _'Student Awards Event'_, the _'Early Career Researcher Awards'_, and our casual end of year _'Proteins in the Pub'_ networking event.
+Our regular annual events include the post-graduate _'Student Awards Event'_, the _'Early Career Researcher Awards'_, 
+and our casual end of year _'Proteins in the Pub'_ networking event.
 
 
 ### Executive Committee
 
- - __Chairperson:__ Erin Brazel
+ - __Chairperson:__ Blagojce Jovcevski
  - __Treasurer:__ Kimberley McLean
  - __Secretary:__ Bethiney Vandborg
- - __ASBMB liaison:__ Blagojce Jovcevski
+ - __ASBMB liaison:__ Daniel McDougal
  - __Webmaster:__ Michael Roach
  - __Sponsorship officer:__ Cher-Lynn Soh
  - __Promotions:__ Juan Miguel Balbin 
- - __Social Media:__ Felise Adams
+ - __Social Media:__ 
  - __Events coordinator:__ Ellen Potoczky
 
 ### Ordinary Committee members
 
- - Lauren Thurgood
- - Andrew Blyth
- - Melissa Brown
- - Daniel McDougal
  - Emma Parkinson-Laurence
- - Melissa Pitman
  - Kate Wegener
+ - Erin Brazel
 
 [1]:/assets/docs/APGConstitution-20080417.doc
