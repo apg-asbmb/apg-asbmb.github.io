@@ -14,6 +14,13 @@ __Submission deadline and prizes TBA, watch this space!__
 
 ![](/assets/images/2022_awardsfestCFA.jpg)
 
+__Join us for the first ever APG Quiz night!__
+
+Follow the QR code or [this link](https://docs.google.com/forms/d/e/1FAIpQLSeWE5BPqqIpa4xJx1GKRdOFB8dDfGLGStdgj2GOLzXbxxt52g/viewform) 
+to register your team today!
+
+![](/assets/images/2022_quizznight.jpeg)
+
 
 [1]:/assets/docs/StudentAwardsTemplate.docx
 
