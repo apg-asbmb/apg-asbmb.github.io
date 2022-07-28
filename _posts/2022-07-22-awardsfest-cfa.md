@@ -9,7 +9,9 @@ Download the Abstract submission template and email your submissions to [apg.abs
  - [Student (PhD/Masters) submission template][1]
  - [ECR submission template][2]
 
-__Submission deadline and prizes TBA, watch this space!__
+__Submission deadline: August 11th__
+
+__Location and prizes TBA, watch this space!__
 
 
 ![](/assets/images/2022_awardsfestCFA.jpg)
