@@ -27,20 +27,14 @@ and our casual end of year _'Proteins in the Pub'_ networking event.
 
 ### Executive Committee
 
- - __Chairperson:__ Blagojce Jovcevski
- - __Treasurer:__ Kimberley McLean
- - __Secretary:__ Bethiney Vandborg
+ - __Chairperson:__ Bethiney Vandborg
+ - __Treasurer/Sponsorship:__ Kimberley McLean
+ - __Secretary:__ Alix Harlington
  - __ASBMB liaison:__ Daniel McDougal
  - __Webmaster:__ Michael Roach
- - __Sponsorship officer:__ Cher-Lynn Soh
- - __Promotions:__ Juan Miguel Balbin 
- - __Social Media:__ 
- - __Events coordinator:__ Ellen Potoczky
+ - __Events coordinator:__ Josh Chey
+ - __Promotions and Social Media:__ Tace Conlin and Emma Mao
+ - __General Committee Member:__ Erin Brazel
 
-### Ordinary Committee members
-
- - Emma Parkinson-Laurence
- - Kate Wegener
- - Erin Brazel
 
 [1]:/assets/docs/APGConstitution-20080417.doc
