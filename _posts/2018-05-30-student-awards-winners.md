@@ -18,6 +18,10 @@ and we congratulate the Student Awards 2018 winners!
  - Erin Brazel, University of Adelaide
  - Rebecca Frkic, University of Adelaide
 
+[Download the Student awards 2018 abstracts.][1]
+
 ---
 
 ![](/assets/images/2018_sa.jpg)
+
+[1]:/assets/docs/StudentAwards2018.pdf
