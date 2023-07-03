@@ -11,6 +11,13 @@ Download the Abstract submission template and email your submissions to [apg.abs
 
 __Submission deadline: July 21st__
 
+## Prizes
+
+ - $1000 ECR Award (travel bursary)
+ - $750 Student Award (travel bursary)
+ - People’s Choice Award (TBA)
+ - 2 x Poster Prizes (TBA)
+
 ![](/assets/images/2023_awardsfest_cfa.png)
 
 
