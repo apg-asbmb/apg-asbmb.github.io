@@ -23,11 +23,11 @@ this is only possible with the support of our parent society--the ASBMB--and our
 
 [comment]: <> (<br>)
 
-[comment]: <> (## _Gold Supporters!_)
+## _Gold Supporters!_
 
-[comment]: <> ([![]&#40;/assets/logos/uofa.png&#41;]&#40;https://www.adelaide.edu.au/&#41;)
+[![](/assets/logos/bmg.png)](https://www.bmglabtech.com/en/)
 
-[comment]: <> (<br>)
+<br>
 
 ## _Silver Supporters!_
 
