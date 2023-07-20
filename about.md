@@ -39,8 +39,7 @@ and our casual end of year _'Proteins in the Pub'_ networking event.
    - Tace Conlin
    - Emma Mao
  - __General Committee Members:__ 
-   - Erin Brazel 
-   - Tom Burton
+   - Erin Brazel
    - Manuela Klingler-Hoffmann
    - Mogana Reckdharajkumar
    - Ruhi Polara
