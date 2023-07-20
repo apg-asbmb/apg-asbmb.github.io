@@ -32,9 +32,18 @@ and our casual end of year _'Proteins in the Pub'_ networking event.
  - __Secretary:__ Alix Harlington
  - __ASBMB liaison:__ Daniel McDougal
  - __Webmaster:__ Michael Roach
- - __Events coordinator:__ Josh Chey; Alison Roennfeldt
- - __Promotions and Social Media:__ Tace Conlin; Emma Mao
- - __General Committee Members:__ Erin Brazel; Tom Burton
+ - __Events coordinators:__ 
+   - Josh Chey
+   - Alison Roennfeldt
+ - __Promotions and Social Media:__
+   - Tace Conlin
+   - Emma Mao
+ - __General Committee Members:__ 
+   - Erin Brazel 
+   - Tom Burton
+   - Manuela Klingler-Hoffmann
+   - Mogana Reckdharajkumar
+   - Ruhi Polara
 
 
 [1]:/assets/docs/APGConstitution-20080417.doc
