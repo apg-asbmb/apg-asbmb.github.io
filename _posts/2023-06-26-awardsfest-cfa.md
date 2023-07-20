@@ -9,7 +9,7 @@ Download the Abstract submission template and email your submissions to [apg.abs
  - [Student (PhD/Masters) submission template][1]
  - [ECR submission template][2]
 
-__Submission deadline: July 21st__
+__Submission deadline has been extended: July 28th__
 
 ## Prizes
 
@@ -18,7 +18,7 @@ __Submission deadline: July 21st__
  - People’s Choice Award (TBA)
  - 2 x Poster Prizes (TBA)
 
-![](/assets/images/2023_awardsfest_cfa.png)
+![](/assets/images/2023_awardsfest_cfa2.png)
 
 
 [1]:/assets/docs/StudentAwardsTemplate.docx
