@@ -11,6 +11,8 @@ Download the Abstract submission template and email your submissions to [apg.abs
 
 __Submission deadline has been extended: July 28th__
 
+Just attending? [RSVP at eventbrite](https://www.eventbrite.com/e/adelaide-protein-group-student-and-ecr-awardsfest-2023-tickets-681382703007) for your chance to win the door prize!
+
 ## Prizes
 
  - $1000 ECR Award (travel bursary)
