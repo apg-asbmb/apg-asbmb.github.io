@@ -16,6 +16,6 @@ Thanks to the judges for their time, the presenters for giving fantastic talks, 
  - __ATA Scientific People’s Choice award__: Susanna Grigson
  - __Poster prizes__: Xavier Montin and Daniel Doherty
 
-![](/assets/images/2022_AwardsFestWinners.jpg)
+![](/assets/images/2023_AwardsFestWinners.jpg)
 
 [1]:/assets/docs/awardsFestProgramme2023.pdf
