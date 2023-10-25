@@ -27,22 +27,20 @@ and our casual end of year _'Proteins in the Pub'_ networking event.
 
 ### Executive Committee
 
- - __Chairperson:__ Bethiney Vandborg
+ - __Chairperson:__ Alison Roennfeldt
  - __Treasurer/Sponsorship:__ Kimberley McLean
  - __Secretary:__ Alix Harlington
  - __ASBMB liaison:__ Daniel McDougal
  - __Webmaster:__ Michael Roach
- - __Events coordinators:__ 
-   - Josh Chey
-   - Alison Roennfeldt
- - __Promotions and Social Media:__
-   - Tace Conlin
-   - Emma Mao
- - __General Committee Members:__ 
-   - Erin Brazel
-   - Manuela Klingler-Hoffmann
+ - __Events coordinator:__ Josh Chey
+ - __Promotions:__ Emma Mao
+ - __Social Media:__
    - Mogana Reckdharajkumar
    - Ruhi Polara
+ - __General Committee Members:__ 
+   - Erin Brazel
+   - Ashleigh Geiger
+   - Manuela Hoffmann
 
 
 [1]:/assets/docs/APGConstitution-20080417.doc
