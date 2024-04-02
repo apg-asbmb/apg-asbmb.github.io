@@ -21,26 +21,11 @@ The specific aims of the group are to:
 - Facilitate the dissemination and learning of the technical and practical aspects of protein science, and related areas
 - Bring scientists from interstate or overseas to present research findings in the field of protein science
 
-Our regular annual events include the post-graduate _'Student Awards Event'_, the _'Early Career Researcher Awards'_, 
-and our casual end of year _'Proteins in the Pub'_ networking event.
+Our regular annual events include our combined student and ECR awards event _'AwardsFest'_, 
+our popular protein-flavoured quizz night, and our casual end of year _'Proteins in the Pub'_ networking event.
 
+![](/assets/images/2024_committee1.png)
 
-### Executive Committee
-
- - __Chairperson:__ Alison Roennfeldt
- - __Treasurer/Sponsorship:__ Kimberley McLean
- - __Secretary:__ Alix Harlington
- - __ASBMB liaison:__ Daniel McDougal
- - __Webmaster:__ Michael Roach
- - __Events coordinator:__ Josh Chey
- - __Promotions:__ Emma Mao
- - __Social Media:__
-   - Mogana Reckdharajkumar
-   - Ruhi Polara
- - __General Committee Members:__ 
-   - Erin Brazel
-   - Ashleigh Geiger
-   - Manuela Hoffmann
-
+![](/assets/images/2024_committee2.png)
 
 [1]:/assets/docs/APGConstitution-20080417.doc
