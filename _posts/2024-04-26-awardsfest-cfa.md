@@ -14,7 +14,7 @@ __Abstract submission closes 20 May__
 ## Prizes
 
  - Best ECR Talk: $1000 travel bursary
- - Best Student Talk: $750
+ - Best Student Talk: $500
  - People's Choice Award: $400
  - Best Student Poster (x2): $150 each
 
