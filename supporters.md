@@ -18,6 +18,7 @@ this is only possible with the support of our parent society--the ASBMB--and our
 ## _Platinum Supporters!_
 
 [![](/assets/logos/cytiva.png)](https://www.cytivalifesciences.com/en/au)
+
 [![](/assets/logos/metagene.webp)](https://www.metagene.com.au/)
 
 <br>
