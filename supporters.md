@@ -15,27 +15,27 @@ this is only possible with the support of our parent society--the ASBMB--and our
 
 <br>
 
-[comment]: <> (## _Platinum Supporters!_)
+## _Platinum Supporters!_
 
-[comment]: <> ([![]&#40;/assets/logos/abcam.png&#41;]&#40;https://www.abcam.com/&#41;)
+[![](/assets/logos/cytiva.png)](https://www.cytivalifesciences.com/en/au)
+[![](/assets/logos/metagene.webp)](https://www.metagene.com.au/)
 
-[comment]: <> ([![]&#40;/assets/logos/cytiva.png&#41;]&#40;https://www.cytivalifesciences.com/en/au&#41;)
-
-[comment]: <> (<br>)
+<br>
 
 ## _Gold Supporters!_
 
-[![](/assets/logos/bmg.png)](https://www.bmglabtech.com/en/)
+[![](/assets/logos/sagc.webp)](https://sa-genomics.com.au/)
+[![](/assets/logos/unisa.png)](https://unisa.edu.au/)
+[![](/assets/logos/uofa.png)](https://set.adelaide.edu.au/biological-sciences/)
 
 <br>
 
 ## _Silver Supporters!_
 
-[comment]: <> ([![]&#40;/assets/logos/bmg.png&#41;]&#40;https://www.bmglabtech.com/&#41;)
 [![](/assets/logos/ata.png)](https://www.atascientific.com.au/)
 
-[comment]: <> ([![]&#40;/assets/logos/ccb.png&#41;]&#40;https://www.centreforcancerbiology.org.au/&#41;)
+<br>
 
-[comment]: <> ([![]&#40;/assets/logos/Flinders.png&#41;]&#40;https://www.flinders.edu.au/&#41;)
+## _Bronze Supporters!_
 
-
+[![](/assets/logos/saigenci.jpg)](https://www.adelaide.edu.au/saigenci/)
