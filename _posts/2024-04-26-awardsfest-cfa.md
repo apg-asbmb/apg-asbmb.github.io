@@ -18,4 +18,12 @@ __Abstract submission closes 20 May__
  - People's Choice Award: $400
  - Best Student Poster (x2): $150 each
 
+## Save the date
+
+10th July 2024
+
+Time TBA 
+
+level 8, Bradley building, University of SA, North Tce
+
 ![](/assets/images/2024_awardsfest_cfa.png)
