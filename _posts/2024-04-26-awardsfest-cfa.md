@@ -9,7 +9,7 @@ Submit your abstract for AwardsFest 2024!
 
 [Submit your abstracts here](https://forms.gle/Q4wakBV2bZGjxTUG8)
 
-__Abstract submission closes 20 May__
+__UPDATED: Abstract submission closes 27 May__
 
 ## Prizes
 
