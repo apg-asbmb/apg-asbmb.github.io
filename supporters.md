@@ -27,7 +27,7 @@ this is only possible with the support of our parent society--the ASBMB--and our
 
 [![](/assets/logos/sagc.webp)](https://sa-genomics.com.au/)
 [![](/assets/logos/unisa.png)](https://unisa.edu.au/)
-[![](/assets/logos/uofa.png)](https://set.adelaide.edu.au/biological-sciences/)
+[![](/assets/logos/bmg.png)](https://www.bmglabtech.com/en/)
 
 <br>
 
@@ -40,3 +40,4 @@ this is only possible with the support of our parent society--the ASBMB--and our
 ## _Bronze Supporters!_
 
 [![](/assets/logos/saigenci.jpg)](https://www.adelaide.edu.au/saigenci/)
+[![](/assets/logos/ace.png)](https://health.adelaide.edu.au/biomedicine/disciplines/adelaide-centre-for-epigenetics)
