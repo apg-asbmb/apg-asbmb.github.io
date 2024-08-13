@@ -24,8 +24,23 @@ The specific aims of the group are to:
 Our regular annual events include our combined student and ECR awards event _'AwardsFest'_, 
 our popular protein-flavoured quizz night, and our casual end of year _'Proteins in the Pub'_ networking event.
 
-![](/assets/images/2024_committee1.png)
-
-![](/assets/images/2024_committee2.png)
+## Committee
+- __Alison Roennfeldt__: Chair
+- __Alix Harlington__: Secretary
+- __Ashleigh Geiger__: Treasurer and Sponsorship Officer 
+- __Daniel McDougal__: ASBMB liaison officer
+- __Michael Roach__: Webmaster 
+- __Lachlan Staker__: Events coordinator 
+- __Marion Turpin__: Events coordinator
+- __Saba Kachooei__: Events coordinator
+- __Ibrahim Javed__: Events coordinator
+- __Emma Mao__: Promotions officer
+- __Chanelle Lai__: Promotions officer
+- __Mogana Reckdharajkumar__: Social media officer
+- __Ruhi Polara__: Social media officer
+- __Susie Grigson__: General committee member
+- __Dayna Holroyd__: General committee member 
+- __Shruti Deshpande__: General committee member
+- __Jack Scanlan__: General committee member
 
 [1]:/assets/docs/APGConstitution-20080417.doc
