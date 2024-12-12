@@ -23,5 +23,5 @@ You can also keep up to date with APG events by:
  - Liking our [Facebook page](https://www.facebook.com/Adelaide-Protein-Group-APG-189628934500705/)
  
 
-<iframe src="http://eepurl.com/dzWQbT" height="1200" width="800" allowfullscreen="">
+<iframe src="http://eepurl.com/dzWQbT" height="900" width="800" allowfullscreen="">
     </iframe>
